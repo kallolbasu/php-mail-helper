@@ -3,6 +3,7 @@
 /**
  * Description of mailHelper
  * this is a simple helper can be used for sending html mails
+ * @version 0.1
  * @author kallol
  */
 class Mail {
